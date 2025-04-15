@@ -109,7 +109,7 @@
                         </div>
 
                         <div class="mt-6">
-                            <p>Fuck You</p>
+                            
                         </div>
                     @else
                         <p class="text-center text-gray-500">No posts found.</p>
